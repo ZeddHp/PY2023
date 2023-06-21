@@ -1,0 +1,5 @@
+Rakstīšana programmām vai programmēšana ir ļoti radošs un apmierinošs nodarbošanās. Jūs varat rakstīt programmas dažādu iemeslu dēļ - lai pelnītu iztiku, lai atrisinātu sarežģītu datu analīzes problēmu, lai izklaidētos vai palīdzētu citam atrisināt problēmu. Šis studiju kurss pieņem, ka katram cilvēkam ir jāprot programmēt un ka, kad jūs apgūstat programmēšanas prasmes, jūs atradīsiet, ko darīt ar savām jaunajām prasmēm.
+
+Mūs ikdienā apkārt ir datori - sākot no klēpjdatoriem līdz mobilajiem telefoniem. Mēs varam domāt par šiem datoriem kā mūsu personīgajiem asistentiem, kuri var parūpēties par daudzām lietām mūsu vietā. Mūsdienu datoru aparatūra būtībā ir izveidota, lai mums nepārtraukti uzdotu jautājumu: "Ko Tu vēlētos, lai es daru nākamais?"
+
+Mūsu datori ir ātri un tiem ir milzīga atmiņa. Ja vien mēs tikai zinātu valodu, ar kuru runāt un paskaidrot datoram, ko mēs vēlamies, lai tas darītu nākamais. Ja mēs zinātu šo valodu, mēs varētu pateikt datoram, lai tas veic uzdevumus mūsu vietā, kas ir atkārtojoši. Interesanti, bet tieši tas, kas datoriem vislabāk izdodas, ir bieži vien tas, ko cilvēki uzskata par garlaicīgu un prātu nomācošu.
